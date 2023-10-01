@@ -1,0 +1,50 @@
+.infLicense{
+    display: flex;
+    align-content: space-between;
+   .sideLeft{
+    background-color: black;
+    color: white;
+    margin: 8px;
+    width: 14rem;
+    border-radius: 10px;
+    h1{
+        font-size: 1.7rem;
+    }
+    li{
+        font-size: 1.1rem;
+
+    }
+   }
+   .sideRigth
+   {
+    background-color: black;
+    color: white;
+    margin: 8px;
+    width: 14rem;
+    border-radius: 10px;
+    h1{
+        font-size: 1.7rem;
+    }
+    li{
+        font-size: 1.1rem;
+    }
+
+   }
+}
+.startWith{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.schedule{
+    margin: 8px;
+    border: solid black 5px;
+    border-radius: 10px;
+    li{
+        font-size: 1.5rem;
+       
+    }
+
+
+
+}
