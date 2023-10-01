@@ -1,0 +1,49 @@
+
+.navbarContainer{
+ display: block;
+
+ .whiteSide{
+  width: 50rem;
+  img{
+    width: 10rem;
+}
+ }
+ .blackSide{
+    background-color: black;
+    width: 50rem;
+    border-radius: 5px;
+    border: solid green 4px;
+    border-left: 0;
+    
+    img{
+        width: 2rem;
+        margin-left: 9rem;
+        margin-top: 1rem;
+    }
+ }
+}
+
+.navBarDividido{
+    display: flex;
+
+   
+
+}
+.cdl_t_s{ 
+    background-color: rgb(236, 176, 12);
+    height: 3rem;
+    text-align: center;
+    display: flex;    
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px #88888833 ;
+    margin: 5px;
+    
+    
+    h3{
+        text-align: center;
+        margin: auto;
+
+    }
+    
+}

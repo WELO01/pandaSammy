@@ -1,0 +1,13 @@
+.schoolPhotos{
+    display: flex;
+   
+   
+    
+    img{
+        width: 10rem;
+        object-fit:cover;
+        padding: 4px;
+        border-radius: 10px;
+        
+    }
+}
