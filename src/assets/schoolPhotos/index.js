@@ -18,9 +18,15 @@ import img17 from './img17.jpg'
 import img18 from './img18.jpg'
 import img19 from './img19.jpg'
 import img20 from './img20.jpg'
+import img22 from './img22.gif'
+import img23 from './img23.gif'
+import img24 from './img24.gif'
+import img25 from './img25.gif'
+import img26 from './img26.gif'
+import img27 from './img27.gif'
 
 export default{
     img1:img1,img2, img3,img4,img5,img6,img7,img8,img9,img10,img11,img12,img13,
-img14,img15,img16,img17,img18,img19,img20
+img14,img15,img16,img17,img18,img19,img20,img22,img23,img24,img25,img26,img27
 
 }

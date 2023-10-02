@@ -17,15 +17,15 @@ const SchoolPhotos = () => {
    <img src={index.img9} alt='pandaSchool'/>
    <img src={index.img10} alt='pandaSchool'/>
    <img src={index.img11} alt='pandaSchool'/>
-   <img src={index.img12} alt='pandaSchool'/>
-   <img src={index.img13} alt='pandaSchool'/>
-   <img src={index.img14} alt='pandaSchool'/>
    <img src={index.img15} alt='pandaSchool'/>
    <img src={index.img16} alt='pandaSchool'/>
    <img src={index.img17} alt='pandaSchool'/>
-   <img src={index.img18} alt='pandaSchool'/>
-   <img src={index.img19} alt='pandaSchool'/>
-   <img src={index.img20} alt='pandaSchool'/>
+   <img src={index.img22} alt='pandaSchool'/>
+   <img src={index.img23} alt='pandaSchool'/>
+   <img src={index.img24} alt='pandaSchool'/>
+   <img src={index.img25} alt='pandaSchool'/>
+   <img src={index.img26} alt='pandaSchool'/>
+   <img src={index.img27} alt='pandaSchool'/>
 
     </div>
   )
