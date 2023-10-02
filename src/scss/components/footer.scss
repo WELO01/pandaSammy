@@ -1,5 +1,18 @@
 .footer{
     background-color: black;
     color: white;
-    
+    margin: 0;
+ 
+}
+
+.information{
+    display: flex;
+    justify-content: space-between;
+    img{
+        width: 1.6rem;
+    }
+    .sideleft{
+        width: 12rem;
+        
+    }
 }
